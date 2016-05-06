@@ -1,4 +1,4 @@
-# 0. Super Basic R
+# 0. Super Basic R I AM HERE!!
 
 # FIND OUT WHERE YOU ARE (and set it correctly!)
 
